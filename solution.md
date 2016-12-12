@@ -16,7 +16,7 @@ Khi gặp truy vấn 1, ta sẽ kiểm tra xem nếu ô mình đang xét chưa c
 
 Ta tính tổng số ngón tay của tất cả mọi người trừ anh Long, và đếm số cách giơ ngón tay để tổng số ngón tay chia N dư 1.
 
-#### Độ phức tạp : O(1).
+#### Độ phức tạp : O(n).
 
 ## D. Ngắm sao
 
